@@ -14,6 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/masuk', function(){
+
+Route::get('/coba', function () {
     return view('gilang1');
 });
