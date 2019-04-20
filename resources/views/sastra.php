@@ -1,11 +1,3 @@
-
-/**
- * Created by PhpStorm.
- * User: Sastra
- * Date: 20/04/2019
- * Time: 23.50
- */
-
 <!doctype html>
 <html lang="en">
   <head>
