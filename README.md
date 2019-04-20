@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
 
-##Teknik Informatika
-##POLITEKNIK NEGERI BANYUWANGI
+#Politeknik Negeri Banyuwangi
+D3-Teknik Informatika
+Kelas 2G
+Semester 4
