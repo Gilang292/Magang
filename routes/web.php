@@ -16,7 +16,11 @@ Route::get('/', function () {
 });
 
 
-Route::get('/coba', function () {
+Route::get('/gilang', function () {
     return view('gilang1');
 });
-=======
+
+Route::get('/sastra', function () {
+    return view('sastra');
+});
+
